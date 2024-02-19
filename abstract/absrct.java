@@ -26,4 +26,15 @@ class hexagone extends shape
         }
 }
 
-public class absrc
+public class absrct
+{
+        public static void main(String[]args)
+        {
+                rectangle rec=new rectangle();
+                triangle tri=new triangle();
+                hexagone hex=new hexagone();
+                rec.sides();
+                tri.sides();
+                hex.sides();
+        }
+}                
