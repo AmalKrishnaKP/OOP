@@ -1,6 +1,6 @@
 import packageone.a;
 import packagetwo.b;
-public class pmain
+public class Main
 {
     public static void main(String[] args)
     {
